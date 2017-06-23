@@ -2,7 +2,7 @@
 Tethered <b>downgrade</b> your <b>original iPad</b> to <b>any firmware</b> 3.2.2 - 5.1.1<br />
 All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br />
  
- IPSW Files (uploading, slow wifi):<br />
+ Modded IPSW Files (uploading) are at https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U
  
  If you need help:<br />
     Text me at +1 (612) 469-7455<br />
