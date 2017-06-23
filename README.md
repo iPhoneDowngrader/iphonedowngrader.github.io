@@ -36,3 +36,5 @@ How to use:<br />
        8) Click extras, then select ipsw. Select the Apple Official IPSW. It should recognize the version.<br />
        9) Click Just Boot. It will display either a pwnapple, or, if you enabled it, verbose boot (arguments = -v)<br />
        10) Enjoy old version of iOS!<br />
+
+<b style='font-size: 8px'>All credit for iOS goes to Apple Computers Inc., I modded the ipsw files that they host</b>
