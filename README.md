@@ -1,8 +1,9 @@
 # iPad1,1 (Both 3G and wifi models)<br />
-Tethered <b>downgrade</b> your <b>original iPad</b> to <b>any firmware</b> 3.2.2 - 5.1.1<br />
+Tethered <b>downgrade</b> your <b>original iPad</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
 All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br />
  
  Modded IPSW Files (uploading) are at https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U
+ If you have SHSH blobs for versions I don't have, send them to me! I will make a downgrade that for you will be untethered and others can use that to tethered downgrade! iPG1101@outlook.com
  
  If you need help:<br />
     Text me at +1 (612) 469-7455<br />
