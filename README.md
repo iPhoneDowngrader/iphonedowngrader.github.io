@@ -1,6 +1,6 @@
 <h1>A4 Downgrades</h1>
 <br />
-Tethered <b>downgrade</b> your <b>original iPad</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
+Tethered <b>downgrade</b> your <b>A4 Device</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
 All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br />
  
  Modded IPSW Files (uploading) are at https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U
@@ -30,9 +30,9 @@ How to use:<br />
   Steps:<br />
        1) Enter PWNED DFU, use iREB or Redsn0w<br />
        2) Open iTunes<br />
-       3) When iTunes says there is an iPad in recovery mode, click OK.<br />
+       3) When iTunes says there is an iDevice in recovery mode, click OK.<br />
        4) Shift-click (or option-click if you are on a mac) Restore.<br />
-       5) Select the iPhoneGuy1101.Downgrade.iPad.[FIRMWARE].ipsw file you downloaded earlier.<br />
+       5) Select the iPhoneGuy1101.Downgrade.[DEVICE].[FIRMWARE].ipsw file you downloaded earlier.<br />
        6) Once the restore is done, iTunes should spit out an error (37, for example, yours may vary). Continue to step 7.<br />
        7) Open RedSn0w 0.9.15b.<br />
        8) Click extras, then select ipsw. Select the Apple Official IPSW. It should recognize the version.<br />
