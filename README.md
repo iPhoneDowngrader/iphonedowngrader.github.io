@@ -1,4 +1,4 @@
-#A4 Downgrades
+<h1>A4 Downgrades</h1>
 <br />
 Tethered <b>downgrade</b> your <b>original iPad</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
 All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br />
