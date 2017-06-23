@@ -37,6 +37,8 @@ How to use:<br />
        7) Open RedSn0w 0.9.15b.<br />
        8) Click extras, then select ipsw. Select the Apple Official IPSW. It should recognize the version.<br />
        9) Click Just Boot. It will display either a pwnapple, or, if you enabled it, verbose boot (arguments = -v)<br />
-       10) Enjoy old version of iOS!<br />
+       10) Enjoy old version of iOS!<br /><br/>
 
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=iphonedowngrader.github.io/&digit=style/plain/17/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.arztwerbung.de" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">Link</a>
+<br/>
 <b style='font-size: 8px'>All credit for iOS goes to Apple Computers Inc., I modded the ipsw files that they host</b>
