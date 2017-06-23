@@ -1,4 +1,4 @@
-# iPad1,1 (Both 3G and wifi models)<br />
+# <br />
 Tethered <b>downgrade</b> your <b>original iPad</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
 All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br />
  
@@ -19,7 +19,7 @@ All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br 
  <br />
 How to use:<br />
   Requirements:<br />
-       1) iPad1,1<br />
+       1) A4 or lower device (iPhone 4 or lower, iPod Touch 4 or lower, iPad 1)<br />
        2) iTunes (11.0.5 or older, 11.1 patches the exploit. I am using iTunes 10.7)<br />
        3) My downgrade IPSW, download above.<br />
        4) Official Apple IPSW (http://ipsw.me/iPad1,1)<br />
