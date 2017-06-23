@@ -3,7 +3,7 @@
 Tethered <b>downgrade</b> your <b>A4 Device</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
 All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br /><br/>
  <b>Thanks to zzanehip for inspiring me to try this</b><br/><br/>
- <b style='font: 150% Courier'>Modded IPSW Files (uploading more) are at https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U</b>
+ <b style='font: 150% Courier'>Modded IPSW Files (uploading more) are at https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U</b><br/><br/>
  If you have SHSH blobs for versions I don't have, send them to me! I will make a downgrade that for you will be untethered and others can use that to tethered downgrade! iPG1101@outlook.com
  
  If you need help:<br />
