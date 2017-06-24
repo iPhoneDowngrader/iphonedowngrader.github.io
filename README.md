@@ -3,14 +3,15 @@
 Tethered <b>downgrade</b> your <b>A4 Device</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
 All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br /><br/>
 <div id='credits' style='display:none'>
+<b>Beta testers: Hacks4live (4.0.2 on iPhone 4 GSM), iPhoneGuy1101 (3.2.2, 4.2.1 on iPad, 4.1 on iPhone 3GS)
 <b>Thanks to zzanehip for inspiring me to try this</b><br/>
-<b>Thanks to Hacks4live for 4.3.5, 5.1, and 5.1.1 SHSH</b><br/>
+<b>Thanks to Hacks4live for iPhone 4 GSM 4.3.5, 5.1, and 5.1.1 SHSH</b><br/>
 <b>Thanks to damien221 for making the <a href='https://www.reddit.com/r/GeekGRADE/'>/r/GeekGRADE reddit community</a></b><br/>
 *sarcasm* Thanks to Apple for making this so easy to do! *sarcasm* I mean... <br/><b>Thanks to Apple for making iOS so "easy" to do whatever you want! (It only requires voiding your warrenty and messing around for hours!)</b><br/>
 <b>Thanks to iH8sn0w for sn0wbreeze to jailbreak these!</b><br/>
 <b style='font-size: 75%'>Do I have permission to give myself (iPhoneGuy1101) credit for this? No? Ok.</b>
 </div><br/>
-<button onclick='document.getElementById("credits").style.display=document.getElementById("credits").style.display=="block"?"none":"block"'>Credits</button><br/>
+<button onclick='document.getElementById("credits").style.display=document.getElementById("credits").style.display=="block"?"none":"block"'>Credits</button><br/><br/><br/>
 <b style='font: 125% Courier'>Modded IPSW Files (uploading more) are at <a href='https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U'>https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U</a></b><br/><br/>
 If you have SHSH blobs for versions I don't have, send them to me! I will make a downgrade that for you will be untethered and others can use that to tethered downgrade! iPG1101@outlook.com
 If you need help:<br />
