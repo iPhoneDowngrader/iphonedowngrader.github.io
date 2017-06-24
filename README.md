@@ -44,7 +44,8 @@ Steps:<br />
 7) Open RedSn0w 0.9.15b.<br />
 8) Click extras, then select ipsw. Select the Apple Official IPSW. It should recognize the version.<br />
 9) Click Just Boot. It will display either a pwnapple, or, if you enabled it, verbose boot (arguments = -v)<br />
-10) Enjoy old version of iOS!<br /><br/>
+10) Enjoy old version of iOS! (and maybe vote up my post? :p)<br /><br/>
+UPDATED) I just added some NoJailbreak copies for versions sn0wbreeze does not recognize. If you used a NoJailbreak copy (look at filename, example of nojailbreak would be iPhoneGuy1101.Downgrade.NoJailbreak.iPhone4-GSM-revA.4.3.5) repeat step 8, click Jailbreak on the main menu, and complete the tutorial starting at step 8.<br/><br/>
 <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=iphonedowngrader.github.io/&digit=style/plain/17/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.arztwerbung.de" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">Link</a>
 <br/>
 <b style='font-size: 8px'>All credit for iOS goes to Apple Computers Inc., I modded the ipsw files that they host</b>
