@@ -1,4 +1,5 @@
 <meta name="google-site-verification" content="oy00VbqDdc5Hnmw7EvpRuTkih38_WvY2cr4PMRep9D8" />
+<meta name="description" content="A4 Device Downgrades! Downgrade A4 devices to previous versions (Like GeekGrade). This is kind of like GeekGrade except I made the IPSW files. GeekGrade worked almost the same, except this is prejailbroken and has more versions. Keywords: Geekgrade mirror host alternative download jailbreak tether downgrade old version ios iPhone OS iPhone 4 3GS 3G iPod iPad 1">
 <h1>A4 Downgrades</h1>
 <br />
 Tethered <b>downgrade</b> your <b>A4 Device</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
