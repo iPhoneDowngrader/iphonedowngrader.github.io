@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="oy00VbqDdc5Hnmw7EvpRuTkih38_WvY2cr4PMRep9D8" />
 <h1>A4 Downgrades</h1>
 <br />
 Tethered <b>downgrade</b> your <b>A4 Device</b> to <b>certain firmwares</b> 3.2.2 - 5.1.1<br />
