@@ -9,7 +9,7 @@ All of these are <b>tethered</b>, even 5.1.1. All are also <b>jailbroken</b><br 
 <b>Thanks to zzanehip for inspiring me to try this</b><br/>
 <b>Thanks to Hacks4live for iPhone 4 GSM 4.3.5, 5.1, and 5.1.1 SHSH</b><br/>
 <b>Thanks to Hacks4live for making the <a href='https://www.reddit.com/r/GeekGRADE/'>/r/GeekGRADE reddit community</a></b><br/>
-*sarcasm* Thanks to Apple for making this so easy to do! *sarcasm* I mean... <br/><b>Thanks to Apple for making iOS so "easy" to do whatever you want! (It only requires voiding your warrenty and messing around for hours!)</b><br/>
+<b><strikethrough>Fuck apple for making this so hard. I mean... this is supposed to be for all ages...</strikethrough> Thanks apple for... umm... making iOS I guess? Sure that works. Thanks Apple for i(Phone )OS</b><br/>
 <b>Thanks to iH8sn0w for sn0wbreeze to jailbreak these!</b><br/>
 <b style='font-size: 75%'>Do I have permission to give myself (iPhoneGuy1101) credit for this? No? Ok.</b>
 </div><br/>
