@@ -52,3 +52,5 @@ UPDATED) I just added some NoJailbreak copies for versions sn0wbreeze does not r
 <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=iphonedowngrader.github.io/&digit=style/plain/17/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.arztwerbung.de" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">Link</a>
 <br/>
 <b style='font-size: 8px'>All credit for iOS goes to Apple Computers Inc., I modded the ipsw files that they host</b>
+<br/>
+<b>Tools: <a href='https://github.com/hacks4live/Downgrader-A4-and-lower'>iDeviceRestore - hacks4live/lazy.devteam </a>
