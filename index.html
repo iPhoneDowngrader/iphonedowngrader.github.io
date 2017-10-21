@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>iPhoneDowngrader</title>
+	<style>
+		body{
+			background: #0BF;
+			background: linear-gradient(45deg, #0F9, #09F, #09F);
+			font-size: 110%;
+			font-family: Consolas;
+		}
+	</style>
+</head>
+<body>
+	<script>
+		let credits = {
+			"iPhoneGuy1101 (me)": "Making the downgrade IPSW's",
+			"hacks4live": "Making the <a href='http://www.reddit.com/r/GeekGrade'>/r/GeekGrade</a> reddit community &amp; p0xpwn.",
+			"zzanehip": "Inspiring me to do downgrades",
+			"Pain-in-the-ass Apple": "For giving me the challenge to do this",
+			"iH8Sn0w": "Making Sn0wbreeze."
+		};
+		let steps = {
+			"Step 1": "Download custom IPSW <a href='https://drive.google.com/drive/u/1/folders/0Bx2X3o1VIqhESVY0YUsyUWFfV0U'>here</a> for your device.",
+			"Step 2": "Enter your device into 'PWNED DFU' mode. You can use <a href='https://p0xpwn.gq'>p0xpwn</a>, <a href='https://ih8sn0w.com'>iReb</a>, or <a href='http://api.ipsw.me/v2/redsn0w/windows/latest/url/dl'>redsn0w</a> to do this.",
+			"Step 3": "Open iTunes, and dismiss the popup saying your device is in recovery mode (Don't worry, iTunes didn't switch you to recovery mode, it just cannot tell it's in DFU mode).",
+			"Step 4": "Restore a custom IPSW (On PC hold SHIFT and click restore, on Mac hold OPTION/ALT). This is the one you downloaded before from my google drive.",
+			"Step 5": "That will pop-up an error. Click OK, and close iTunes.",
+			"Step 6": "Now it is time to boot the device, open <a href='http://api.ipsw.me/v2/redsn0w/windows/latest/url/dl'>redsn0w</a> (or click there to download now) and click Extras. From the next screen, click 'Select IPSW', and select the UNMODDED IPSW for your version* (6.x users - use 6.0 ipsw, 3.2 users - use 3.2.2). Click Just Boot after it verifies the IPSW!",
+			"Step 7 (optional, recomended)": "Install cydia updates, and 'PreventSleep' from cydia. If you want to be able to downgrade apps, install aDowngrader from the repo <a href='//h6nry.github.io/repo'>https://h6nry.github.io/repo</a>",
+			"Enjoy your new Firmware!": "This has SleepBug and is tethered. If it turns off, re-run the entire step 6."
+		};
+		window.onload = function(){
+			let creds = document.createElement('span');
+			creds.style.top='0.2%';
+			creds.style.borderRadius = '4pt';
+			creds.style.position = 'absolute';
+			creds.style.width = '40%';
+			creds.style.height = '50%';
+			creds.style.overflowY = 'auto';
+			creds.style.border = 'none';
+			creds.style.left = '1%';
+			creds.style.overflowWrap = 'word-break'
+			creds.appendChild((function(){let a = document.createElement('h1');a.innerHTML='Credits';return a;})());
+			for(let i in credits) {
+				let tmp = document.createElement('a');
+				tmp.innerHTML = '<b>Thanks to '+i+' for</b>:<br/> &zwj; &zwj; &zwj; &zwj; &zwj; &zwj; &zwj; &zwj; &zwj; '+credits[i];
+				creds.appendChild(tmp);
+				creds.appendChild(document.createElement('br'));
+			};
+			document.body.appendChild(creds);
+
+			document.body.appendChild(document.createElement('br'));
+			document.body.appendChild(document.createElement('br'));
+			document.body.appendChild(document.createElement('br'));
+
+			let stepsElem = document.createElement('span');
+			stepsElem.style.top='0.2%';
+			stepsElem.style.overflowY = 'auto';
+			stepsElem.style.borderRadius = '5pt';
+			stepsElem.style.position = 'absolute';
+			stepsElem.style.border = 'none';
+			stepsElem.style.height = '90%';
+			stepsElem.style.width = '46%';
+			stepsElem.style.right = '3%';
+			stepsElem.style.overflowWrap = 'word-break'
+			stepsElem.appendChild((function(){let a = document.createElement('h1');a.innerHTML='Installation';return a;})());
+			for(let i in steps) {
+				let tmp = document.createElement('a');
+				tmp.innerHTML = '<b> '+i+' </b>:<br/> &zwj; &zwj; &zwj; &zwj; &zwj; &zwj; &zwj;'+steps[i];
+				stepsElem.appendChild(tmp);
+				stepsElem.appendChild(document.createElement('br'));
+			};
+			document.body.appendChild(stepsElem);
+			let icon = document.createElement('img');
+			icon.src = 'icon.png';
+			icon.style.cursor = 'pointer';
+			icon.style.position = 'absolute';
+			icon.style.left = '1%';
+			icon.style.bottom = '1%';
+			icon.style.width = '35%';
+			icon.style.height = '42%';
+			icon.style.borderRadius = '8%';
+			icon.style.imageRendering = '-webkit-crisp-edges';
+			icon.style.imageRendering = '-moz-crisp-edges';
+			icon.style.imageRendering = '-o-crisp-edges';
+			icon.style.imageRendering = 'optimizeSpeed';
+			icon.style.imageRendering = 'crisp-edges';
+			icon.style.imageRendering = 'pixelated';
+			icon.style.msInterpolationMode = 'nearest-neighbor';
+			icon.onclick = function Download_iDowngrader(event){
+				window.open('https://iPhoneDowngrader.github.io/iDowngrader/');
+			};
+			document.body.appendChild(icon);
+		};
+	</script>
+</body>
+</html>
